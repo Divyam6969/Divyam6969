@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
-I'm 19-year-old boy on an intention to enhance as a Computer Science Engineer. I love learning and exploring new skills :)
+I'm a 19-year-old boy on an intention to enhance as a Computer Science Engineer. I love learning and exploring new skills :)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on  web developement 
 - 🌱 I’m currently learning DSA and backend web development
