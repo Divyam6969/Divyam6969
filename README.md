@@ -40,7 +40,7 @@ I'm a 19-year-old boy pursuing computer science engineering. I love learning and
 
 ![Mario](https://github.com/Divyam6969/textart/blob/main/mario-icegif-11.gif)
 
-## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
+## My Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
 | ![](https://github-readme-stats.vercel.app/api?username=Divyam6969&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyam6969) |
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=Divyam6969) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
@@ -57,7 +57,7 @@ I'm a 19-year-old boy pursuing computer science engineering. I love learning and
 
 <summary></summary>
 
-[![Tap to Reload](https://metrics.lecoq.io/Divyam6969?template=classic&people=1&languages=1&achievements=1&stackoverflow=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&stackoverflow=false&stackoverflow.user=19413864&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta))](https://www.github.com/Divyam6969)
+[![Tap to Reload](https://metrics.lecoq.io/Divyam6969?template=classic&people=1&languages=1&achievements=1&stackoverflow=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&stackoverflow=false&stackoverflow.user=19413864&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta))]
 
 
 
