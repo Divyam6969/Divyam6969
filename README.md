@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
-I'm a 19-year-old boy on an intention to enhance as a Computer Science Engineer. I love learning and exploring new skills :)
+I'm a 19-year-old boy pursuing computer science engineering. I love learning and exploring new skills :)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on  web developement 
 - 🌱 I’m currently learning DSA and backend web development
@@ -30,7 +30,7 @@ I'm a 19-year-old boy on an intention to enhance as a Computer Science Engineer.
 
 <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/Divyam6969/textart/blob/main/javascript-shield-logo-icon-2.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
 
-### &nbsp;- Libraries, Frameworks, Tools  
+### &nbsp;- Libraries, Frameworks & Tools  
 
 
 <img src = 'https://github.com/Divyam6969/textart/blob/main/react.png' height='50'/>&nbsp;
@@ -54,10 +54,11 @@ I'm a 19-year-old boy on an intention to enhance as a Computer Science Engineer.
   <img src="https://github.com/Divyam6969/textart/blob/main/github-user-contribution.svg" alt="snake"></center>
 </p>
 
+click on drop down below to view more details 👇
 <details>
 <summary></summary>
 
-[![Tap to Reload](https://metrics.lecoq.io/Divyam6969?template=classic&people=1&isocalendar=1&languages=1&music=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&music=false&music.provider=spotify&music.user=.user.login&music.playlist=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F7pdzRR8AJz5T2ShTDwvwg2%3Fsi%3Ddaee82fa15b94016&music.limit=4&music.played.at=false&music.time.range=short&music.top.type=tracks&config.timezone=Asia%2FCalcutta)](https://www.github.com/Divyam6969)
+[![Tap to Reload](https://metrics.lecoq.io/Divyam6969?template=classic&people=1&languages=1&achievements=1&stackoverflow=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&stackoverflow=false&stackoverflow.user=19413864&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta))](https://www.github.com/Divyam6969)
 
 </details>
 
@@ -67,8 +68,8 @@ I'm a 19-year-old boy on an intention to enhance as a Computer Science Engineer.
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Divyam6969'> <a href="https://github.com/Divyam6969?tab=followers"><img src="https://img.shields.io/github/followers/divyam6969?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
+<img align="right" alt="GIF" height="160px" src="https://media.tenor.com/c_rr1aUsI90AAAAC/phineas-and-ferb-agent-p.gif" />
+<img src="https://static.wikia.nocookie.net/pffanon/images/5/53/Perry.gif/revision/latest?cb=20200724041706" height="160px" width="160px"> 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
