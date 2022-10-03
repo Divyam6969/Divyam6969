@@ -61,8 +61,6 @@ I'm a 19-year-old boy pursuing computer science engineering. I love learning and
 
 
 
-
-
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Divyam6969'> <a href="https://github.com/Divyam6969?tab=followers"><img src="https://img.shields.io/github/followers/divyam6969?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <img align="right" alt="GIF" height="160px" src="https://media.tenor.com/c_rr1aUsI90AAAAC/phineas-and-ferb-agent-p.gif" />
