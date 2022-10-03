@@ -54,6 +54,7 @@ I'm a 19-year-old boy pursuing computer science engineering. I love learning and
   <img src="https://github.com/Divyam6969/textart/blob/main/github-user-contribution.svg" alt="snake"></center>
 </p>
 
+##click below to view more details 👇
 
 <details>
 <summary></summary>
