@@ -72,10 +72,7 @@ I'm a 19-year-old boy pursuing computer science engineering. I love learning and
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-## Spotify Recently Played 🎧
 
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=cxwt8prsq3qb7w6bhu0vy4l2u)
 
 
 ------
