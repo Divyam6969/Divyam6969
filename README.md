@@ -8,7 +8,7 @@ I'm a 19-year-old boy pursuing computer science engineering. I love learning and
 - 🌱 I’m currently learning DSA and backend web development
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for a good project
-- 💬 I love answering questions on stackoverflow
+- 💬 Not sure if I am good at programming or good at Googling :')
 - 📫 How to reach me: [divyammalik2003@gmail.com](divyammalik2003@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love eating chocolate ;)
