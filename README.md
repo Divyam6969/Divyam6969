@@ -28,7 +28,7 @@ I'm a 19-year-old boy pursuing computer science engineering. I love learning and
 
 ### &nbsp;- Languages
 
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/Divyam6969/textart/blob/main/javascript-shield-logo-icon-2.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;<img src = 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' width='40'/>&nbsp;
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/Divyam6969/textart/blob/main/javascript-shield-logo-icon-2.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;<img src = 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' width='40'/>&nbsp;
 
 ### &nbsp;- Libraries, Frameworks & Tools  
 
