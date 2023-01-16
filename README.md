@@ -45,7 +45,6 @@ I'm a 19-year-old boy pursuing computer science engineering. I love learning and
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=Divyam6969) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![Divyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=Divyam6969&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
 
 
 ## Watch my contribution graph being eaten by a snake🐍
