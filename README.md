@@ -5,7 +5,7 @@
 I'm a 19-year-old boy pursuing computer science engineering. I love learning and exploring new skills :)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on  web developement 
-- 🌱 I’m currently learning DSA and backend web development
+- 🌱 I’m currently exploring React
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for a good project
 - 💬 Not sure if I am good at programming or good at Googling :')
