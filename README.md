@@ -11,7 +11,7 @@ I'm a 19-year-old boy pursuing computer science engineering. I love learning and
 - 💬 Not sure if I am good at programming or good at Googling :')
 - 📫 How to reach me: [divyammalik2003@gmail.com](divyammalik2003@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm weird 0_0
+- ⚡ Fun fact: my life lol
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/Divyam03" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
