@@ -34,7 +34,7 @@ I'm a 19-year-old boy pursuing computer science engineering. I love learning and
 
 
 <img src = 'https://github.com/Divyam6969/textart/blob/main/react.png' height='50' width='50'/>&nbsp;
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50' width='50'/>&nbsp;<img src = 'https://github.com/Divyam6969/textart/blob/main/vsc.png' height='50' width='50'/>&nbsp;  <img src = 'https://github.com/Divyam6969/textart/blob/main/bs.png' width='50' height='50'/>&nbsp;  <img src = 'https://github.com/Divyam6969/textart/blob/main/download.png' width='50' height='50'/>&nbsp; 
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50' width='50'/>&nbsp;<img src = 'https://github.com/Divyam6969/textart/blob/main/vsc.png' height='50' width='50'/>&nbsp;  <img src = 'https://github.com/Divyam6969/textart/blob/main/bs.png' width='50' height='50'/>&nbsp;  <img src = 'https://github.com/Divyam6969/textart/blob/main/download.png' width='50' height='50'/>&nbsp; <img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKYF2FqX381JPE0nhmLTEhp34WIYxh7rNZA&usqp=CAU' height='50' width='50'/>&nbsp;<img src = 'https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg' height ='50' width='50'/>&nbsp;
 
 ![Profile views](https://gpvc.arturio.dev/Divyam6969)
 
