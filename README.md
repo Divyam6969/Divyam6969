@@ -2,16 +2,16 @@
 
 <img src="https://media.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
-I'm a 19-year-old boy pursuing computer science engineering. I love learning and exploring new skills :)
+I'm a 20-year-old boy pursuing computer science engineering. I love learning and exploring new skills :)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on  web developement 
+- 🔭 I’m a Full Stack developer
 - 🌱 I’m currently exploring Machine Learning
 - 👯 I’m looking to collaborate on Web development and ML projects
 - 🤔 I’m looking for a good project
 - 💬 Not sure if I am good at programming or good at Googling :')
 - 📫 How to reach me: [divyammalik2003@gmail.com](divyammalik2003@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: idk
+
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/Divyam03" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
@@ -36,8 +36,6 @@ I'm a 19-year-old boy pursuing computer science engineering. I love learning and
 <img src = 'https://github.com/Divyam6969/textart/blob/main/react.png' height='50' width='50'/>&nbsp;
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50' width='50'/>&nbsp;<img src = 'https://github.com/Divyam6969/textart/blob/main/vsc.png' height='50' width='50'/>&nbsp;  <img src = 'https://github.com/Divyam6969/textart/blob/main/bs.png' width='50' height='50'/>&nbsp;  <img src = 'https://github.com/Divyam6969/textart/blob/main/download.png' width='50' height='50'/>&nbsp; <img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKYF2FqX381JPE0nhmLTEhp34WIYxh7rNZA&usqp=CAU' height='50' width='50'/>&nbsp;<img src = 'https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg' height ='50' width='50'/>&nbsp;<img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7FJEOP26ME60-a0MHIIMQ3RI_dVB8ycNqw&usqp=CAU' width='50' height='50'/>&nbsp;
 
-![Profile views](https://gpvc.arturio.dev/Divyam6969)
-
 ![Mario](https://github.com/Divyam6969/textart/blob/main/mario-icegif-11.gif)
 
 ## My Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
@@ -52,15 +50,6 @@ I'm a 19-year-old boy pursuing computer science engineering. I love learning and
 <p align="center">
   <img src="https://github.com/Divyam6969/textart/blob/main/github-user-contribution.svg" alt="snake"></center>
 </p>
-
-## click below to view more details 👇
-
-<details>
-<summary></summary>
-
-[![Tap to Reload](https://metrics.lecoq.io/Divyam6969?template=classic&people=1&languages=1&achievements=1&stackoverflow=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&stackoverflow=false&stackoverflow.user=19413864&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta)](https://github.com/Divyam6969)
-
-</details>
 
 
 
