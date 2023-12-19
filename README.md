@@ -7,6 +7,7 @@ I'm a 20-year-old boy pursuing computer science engineering. I love learning and
 - 🔭 I’m a Full Stack developer
 - 🌱 I’m currently exploring Machine Learning
 - 🤔 I’m looking  to collaborate on good web development and ML projects
+- 😗 Fun fact about me: My average typing speed is 80 WPM :/
 - 💬 Not sure if I am good at programming or good at Googling :')
 - 📫 How to reach me: [divyammalik2003@gmail.com](divyammalik2003@gmail.com)
 - 😄 Pronouns: He/Him
