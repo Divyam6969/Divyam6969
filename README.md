@@ -11,6 +11,7 @@ I'm a 20-year-old boy pursuing computer science engineering. I love learning and
 - 💬 Not sure if I am good at programming or good at Googling :')
 - 📫 How to reach me: [divyammalik2003@gmail.com](divyammalik2003@gmail.com)
 - 😄 Pronouns: He/Him
+- My leetcode profile: [Divyam6969](www.leetcode.com/divyam6969)
 
 
 <div align="center">
