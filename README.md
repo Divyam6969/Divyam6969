@@ -6,8 +6,7 @@ I'm a 20-year-old boy pursuing computer science engineering. I love learning and
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m a Full Stack developer
 - 🌱 I’m currently exploring Machine Learning
-- 👯 I’m looking to collaborate on Web development and ML projects
-- 🤔 I’m looking for a good project
+- 🤔 I’m looking  to collaborate on good web development and ML projects
 - 💬 Not sure if I am good at programming or good at Googling :')
 - 📫 How to reach me: [divyammalik2003@gmail.com](divyammalik2003@gmail.com)
 - 😄 Pronouns: He/Him
@@ -28,15 +27,15 @@ I'm a 20-year-old boy pursuing computer science engineering. I love learning and
 
 ### &nbsp;- Languages
 
-<img src = 'https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/Divyam6969/textart/blob/main/javascript-shield-logo-icon-2.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;<img src = 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' width='40'/>&nbsp;
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40' width='40'/>&nbsp;<img src = 'https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc' width='40' height='40' />&nbsp;<img src = 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' width='40'/>&nbsp;<img src = 'https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png' width='40' height='40' />&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
 
 ### &nbsp;- Libraries, Frameworks & Tools  
 
-
-<img src = 'https://github.com/Divyam6969/textart/blob/main/react.png' height='50' width='50'/>&nbsp;
+<img src = 'https://github.com/Divyam6969/textart/blob/main/react.png' height='50' width='50'/>&nbsp;<img src = 'https://res.cloudinary.com/practicaldev/image/fetch/s--gE7L51Uk--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://thepracticaldev.s3.amazonaws.com/i/vb6ai56xqgpc0bcfn92y.png' width='50' height='50'/>&nbsp;<img src = 'https://miro.medium.com/v2/resize:fit:727/1*PFm2VqVm_Pz-hKuU3GWW2A.png' width='100' height='50'/>&nbsp;<img src = 'https://vercel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F6Dqa9T8XOOC95yJb0z9jew%2Fce4932b8d23046f260510e24c1ec39e1%2Fthumbnail.png&w=3840&q=75&dpl=dpl_3SVZQ2jckhwPATXJhx1rkG5CA4YH' height='50' width='100'/>&nbsp;
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50' width='50'/>&nbsp;<img src = 'https://github.com/Divyam6969/textart/blob/main/vsc.png' height='50' width='50'/>&nbsp;  <img src = 'https://github.com/Divyam6969/textart/blob/main/bs.png' width='50' height='50'/>&nbsp;  <img src = 'https://github.com/Divyam6969/textart/blob/main/download.png' width='50' height='50'/>&nbsp; <img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKYF2FqX381JPE0nhmLTEhp34WIYxh7rNZA&usqp=CAU' height='50' width='50'/>&nbsp;<img src = 'https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg' height ='50' width='50'/>&nbsp;<img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7FJEOP26ME60-a0MHIIMQ3RI_dVB8ycNqw&usqp=CAU' width='50' height='50'/>&nbsp;
 
-![Mario](https://github.com/Divyam6969/textart/blob/main/mario-icegif-11.gif)
+<img src="https://github.com/Divyam6969/textart/raw/main/mario-icegif-11.gif" width="100%" height='500px'>
+
 
 ## My Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
 | ![](https://github-readme-stats.vercel.app/api?username=Divyam6969&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyam6969) |
