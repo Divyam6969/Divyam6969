@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
-I'm a 20-year-old boy pursuing computer science engineering. I love learning and exploring new skills :)
+I'm a 21-year-old boy pursuing computer science engineering. I love learning and exploring new skills :)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m a Full Stack developer
 - 🌱 I’m currently exploring Machine Learning
