@@ -2,65 +2,89 @@
 
 <img src="https://media.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
-I'm a 21-year-old boy pursuing computer science engineering. I love learning and exploring new skills :)
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m a Full Stack developer
-- 🌱 I’m currently exploring Machine Learning
-- 🤔 I’m looking  to collaborate on good web development and ML projects
-- 😗 Fun fact about me: My average typing speed is 80 WPM :/
-- 💬 Not sure if I am good at programming or good at Googling :')
-- 😄 Pronouns: He/Him
-- My leetcode profile: [Divyam6969](www.leetcode.com/divyam6969)
+I'm a 21-year-old software engineer and computer science enthusiast, passionate about learning and exploring new skills!  
 
+<img width="50%" align="right" alt="GitHub Header Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/Divyam03" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
+- 🔭 **Software Engineer**  
+- 🌱 Upcoming SDE Intern @Amadeus 
+- 🤝 Former Mitacs Globalink Research Intern
+- 🧃 Codechef 3 Stars (1700+ Rating), Kaggle Master (Under 300 Worldwide Rank)
+- 💡 Fun Fact: My average typing speed is **80 WPM** :/  
+- 💬 Not sure if I’m good at **programming** or just **Googling** 😅   
 
-## Let's Connect <img src="https://github.com/Divyam6969/textart/blob/main/socials.png" width=40 height=40 /> 
+📫 **LeetCode:**: [Divyam6969](https://www.leetcode.com/divyam6969) 
 
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/divyam-malik-8402a821a/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/diivvyam)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19413864/divyam)&nbsp;
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/Divyam6969)&nbsp;  
+📫 **Kaggle:**: [Divyam6969](https://www.kaggle.com/divyam6969)  
 
-<img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
- <br/>
+📫 **Codechef:**: [Divyam6969](https://www.codechef.com/users/divyam6969)  
+
+<div align="left">
+<a href="https://www.buymeacoffee.com/Divyam03" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
+</div>
+
+---
+
+## 💼 **Experience**
+- **Mitacs Globalink Research Intern**  
+  - Developed a **mobile app** for early screening of child development issues in Canadian hospitals.  
+  - Led the project as **Scrum Master**, ensuring delivery of a functional product.  
+
+- **Junior Machine Learning Engineer at Omdena**  
+  - Contributed to **data preprocessing**, **model development**, and **deployment** for global ML projects.  
+  - Led data science initiatives and delivered impactful presentations.  
+
+---
+
+## 🛠️ **Skills**
+
+### Programming Languages:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+
+### Development Skills:  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+### Databases:  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+
+### Tools and Libraries:  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![FastAI](https://img.shields.io/badge/FastAI-1C2833?style=for-the-badge&logo=fastai&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+
+---
+
+📞 **Contact Me**:  
+**Email**: divyammalik2003@gmail.com  
+**LinkedIn**: [Divyam Malik](https://www.linkedin.com/in/divyam03/) 
+
+---
+
  
-## 👨‍💻 &nbsp;Talking to Computers Using :
-
-### &nbsp;- Languages
-
-<img src = 'https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40' width='40'/>&nbsp;<img src = 'https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc' width='40' height='40' />&nbsp;<img src = 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' width='40'/>&nbsp;<img src = 'https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png' width='40' height='40' />&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
-
-### &nbsp;- Libraries, Frameworks & Tools  
-
-<img src = 'https://github.com/Divyam6969/textart/blob/main/react.png' height='50' width='50'/>&nbsp;<img src = 'https://res.cloudinary.com/practicaldev/image/fetch/s--gE7L51Uk--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://thepracticaldev.s3.amazonaws.com/i/vb6ai56xqgpc0bcfn92y.png' width='50' height='50'/>&nbsp;<img src = 'https://miro.medium.com/v2/resize:fit:727/1*PFm2VqVm_Pz-hKuU3GWW2A.png' width='100' height='50'/>&nbsp;<img src = 'https://vercel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F6Dqa9T8XOOC95yJb0z9jew%2Fce4932b8d23046f260510e24c1ec39e1%2Fthumbnail.png&w=3840&q=75&dpl=dpl_3SVZQ2jckhwPATXJhx1rkG5CA4YH' height='50' width='100'/>&nbsp;
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50' width='50'/>&nbsp;<img src = 'https://github.com/Divyam6969/textart/blob/main/vsc.png' height='50' width='50'/>&nbsp;  <img src = 'https://github.com/Divyam6969/textart/blob/main/bs.png' width='50' height='50'/>&nbsp;  <img src = 'https://github.com/Divyam6969/textart/blob/main/download.png' width='50' height='50'/>&nbsp; <img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKYF2FqX381JPE0nhmLTEhp34WIYxh7rNZA&usqp=CAU' height='50' width='50'/>&nbsp;<img src = 'https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg' height ='50' width='50'/>&nbsp;<img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7FJEOP26ME60-a0MHIIMQ3RI_dVB8ycNqw&usqp=CAU' width='50' height='50'/>&nbsp;
 
 <img src="https://github.com/Divyam6969/textart/raw/main/mario-icegif-11.gif" width="100%" height='500px'>
 
 
-## My Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
-| ![](https://github-readme-stats.vercel.app/api?username=Divyam6969&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyam6969) |
-| --- | --- |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=Divyam6969) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-
-
-## Watch my contribution graph being eaten by a snake🐍
+## Watch my Contribution Graph Being Eaten by a Snake 🐍
 
 <p align="center">
-  <img src="https://github.com/Divyam6969/textart/blob/main/github-user-contribution.svg" alt="snake"></center>
+  <img src="https://github.com/Divyam6969/textart/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+
+<div align="center">
+  <img src="https://media.tenor.com/c_rr1aUsI90AAAAC/phineas-and-ferb-agent-p.gif" alt="Agent P GIF" height="160px" width="180px">
+  <img src="https://static.wikia.nocookie.net/pffanon/images/5/53/Perry.gif/revision/latest?cb=20200724041706" alt="Perry GIF" height="160px" width="180px">
+</div>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Divyam6969" alt="Visitor Count"> 
+  <a href="https://github.com/Divyam6969?tab=followers">
+    <img src="https://img.shields.io/github/followers/divyam6969?label=Followers&style=social" alt="GitHub Followers">
+  </a>
 </p>
 
 
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Divyam6969'> <a href="https://github.com/Divyam6969?tab=followers"><img src="https://img.shields.io/github/followers/divyam6969?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-<img align="right" alt="GIF" height="160px" src="https://media.tenor.com/c_rr1aUsI90AAAAC/phineas-and-ferb-agent-p.gif" />
-<img src="https://static.wikia.nocookie.net/pffanon/images/5/53/Perry.gif/revision/latest?cb=20200724041706" height="160px" width="160px"> 
 
 
 
-
-
-
-------
+---
