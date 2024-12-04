@@ -54,7 +54,8 @@ I'm a 21-year-old software engineer and computer science enthusiast, passionate 
 
 📞 **Contact Me**:  
 **Email**: divyammalik2003@gmail.com  
-**LinkedIn**: [Divyam Malik](https://www.linkedin.com/in/divyam03/) 
+**LinkedIn**: [Divyam Malik](https://www.linkedin.com/in/divyam03/) <br>
+**Discord Tag**: divyam
 
 ---
 
