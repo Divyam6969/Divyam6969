@@ -9,7 +9,7 @@ I'm a 21-year-old software engineer and computer science enthusiast, passionate 
 - 🔭 **Software Engineer**  
 - 🌱 Upcoming SDE Intern @Amadeus 
 - 🤝 Former Mitacs Globalink Research Intern
-- 🧃 Codechef 3 Stars (1700+ Rating), Kaggle Master (Under 300 Worldwide Rank)
+- 🧃 Codechef 4 Stars (1800+ Rating), Kaggle Master (Under 300 Worldwide Rank)
 - 💡 Fun Fact: My average typing speed is **80 WPM** :/  
 - 💬 Not sure if I’m good at **programming** or just **Googling** 😅   
 
