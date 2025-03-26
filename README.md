@@ -7,9 +7,9 @@ I'm a 21-year-old software engineer and computer science enthusiast, passionate 
 <img width="50%" align="right" alt="GitHub Header Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 **Software Engineer**  
-- 🌱 Upcoming SDE Intern @Amadeus 
+- 🌱 SDE Intern @Amadeus 
 - 🤝 Former Mitacs Globalink Research Intern
-- 🧃 Codechef 4 Stars (1800+ Rating), Kaggle Master (Under 300 Worldwide Rank)
+- 🧃 Codechef 5 Stars (2000+ Rating), Kaggle Master (Under 300 Worldwide Rank)
 - 💡 Fun Fact: My average typing speed is **80 WPM** :/  
 - 💬 Not sure if I’m good at **programming** or just **Googling** 😅   
 
