@@ -33,5 +33,4 @@ Model Training & Inference • FastAI • Scikit-learn • Data Pipelines
 
 ---
 
-> Some people ship features.  
-> I ship reliability.
+> I’ve broken enough systems to finally understand how to build them properly.
